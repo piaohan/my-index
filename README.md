@@ -1,8 +1,8 @@
 # 关于
 
-#js
+# js
 
-##[backTop](https://github.com/piaohan/backtop)
+## [backTop](https://github.com/piaohan/backtop)
 ```
 这是一个页面从底部返回顶部的JS扩展
 ```
