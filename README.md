@@ -2,6 +2,7 @@
 
 
 # 关于
+	> 有感工作中，很多用到的东西，在一段时间不用后，再去找很麻烦，所以准备做一份工作手册，方便自己也用于分享给有需要的人
  ---
 # js
 
@@ -33,6 +34,7 @@ BlockUI通过向DOM中添加元素实现其外观和组织用户交互的行为�
 
 ```
 + [slimScroll](https://github.com/rochal/jQuery-slimScroll)
+
   [demo]( http://www.jq22.com/demo/jQuery-slimScroll-141223223505/)
 ```
 功能插件
