@@ -90,9 +90,35 @@ Date Range Picker 依赖于 Bootstrap, jQuery 和 Moment.js.
 
   [官网地址](https://www.10bestdesign.com/jqvmap/)
 ```
-JQVMap 是一个用于输出向量地图的 jQuery 插件，使用可改变大小的 SVG 处理，支持的浏览器包括：Firefox, Safari, Chrome, Opera and Internet Explorer 9.  对 IE 6-8 的版本通过 VML 支持。
+JQVMap 是一个用于输出向量地图的 jQuery 插件，使用可改变大小的 SVG 处理，
+支持的浏览器包括：Firefox, Safari, Chrome, Opera and Internet Explorer 9.  对 IE 6-8 的版本通过 VML 支持。
 ```
 
++ [jqvmap](https://github.com/amcharts/amcharts3)
+
+  [官网地址](https://www.amcharts.com/)
+```
+JavaScript Charts能满足大部分的开发需求，包括序列图表（列型图，条形图，线型图，面积图，步骤折线图，	
+平滑折线图，蜡烛图，ohlc图），饼图/环形图，雷达图/极区图以及xy图/散点图/气泡图。
+我们的图表是现代标准化的兼容图表集，提供无与伦比功能与性能。
+```
+
++ [moment](https://github.com/moment/moment)
+
+  [官网地址](http://momentjs.com/)
+```
+用于解析、验证、操作和格式化日期的轻量级JavaScript日期库。
+```
+
+
++ [raphael](https://github.com/DmitryBaranovskiy/raphael)
+
+  [官网地址](http://dmitrybaranovskiy.github.io/raphael/)
+```
+一个用于在网页中绘制矢量图形的 Javascript 库。它使用 SVG W3C 推荐标准和 VML 作为创建图形的基础，
+你可以通过 JavaScript 操作 DOM 来轻松创建出各种复杂的柱状图、饼图、曲线图等各种图表，还可以绘制任意形状的图形，
+可以进行图表或图像的裁剪和旋转等复杂操作。
+```
  ---
 
  
